@@ -1,0 +1,318 @@
+﻿AL,Shqipëria,Shqipëria,Albania
+
+ad- NO DOWNLOAD - https://geoportal.asig.gov.al/map/?themeId=3303812&auto=true
+
+bu- NO DOWNLOAD - https://geoportal.asig.gov.al/map/?themeId=3309824&auto=true
+
+cp- NO DOWNLOAD - https://geoportal.asig.gov.al/map/?themeId=3303827&auto=true
+
+Andorra
+
+ad-https://www.ideandorra.ad/geoportal/index.jsp?lang=ca
+
+bu-https://www.ideandorra.ad/geoportal/index.jsp?lang=ca
+
+cp- NO DOWNLOAD - 
+
+
+CZ,Česko,Česko,Czechia
+
+ad-https://services.cuzk.cz/gml/inspire/ad/epsg-5514/
+
+bu-https://services.cuzk.cz/gml/inspire/bu/epsg-5514/
+
+cp-https://services.cuzk.cz/gml/inspire/cp/epsg-5514/
+
+DE,Deutschland,Deutschland,Germany
+
+ad-**individual admins
+
+bu-**individual admins
+
+cp-**individual admins
+
+DK,Danmark,Danmark,Denmark
+
+ad-https://www.geodata-info.dk/srv/eng/catalog.search#/metadata/50b921ea-935e-d605-2287-4ee364046795
+
+bu-https://www.geodata-info.dk/srv/eng/catalog.search#/metadata/3237298e-d65b-2906-a847-8d2533672840
+
+cp-https://www.geodata-info.dk/srv/eng/catalog.search#/metadata/17e667c5-fe5b-1129-69db-b95145448034
+
+CY,Kýpros,Κύπρος,Cyprus
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+BE,Belgique/België,Belgique/België,Belgium
+
+ad-https://www.geo.be/catalog/details/ca0fd5c0-8146-11e9-9012-482ae30f98d9?l=en
+
+bu-https://financien.belgium.be/nl/experten-partners/open-patrimoniumdata/datasets/downloadportaal
+
+cp-https://financien.belgium.be/nl/experten-partners/open-patrimoniumdata/datasets/downloadportaal
+
+BG,Bulgaria,България,Bulgaria
+
+ad- NO DOWNLOAD - 
+
+bu-https://inspire.cadastre.bg/arcgis/rest/services
+
+cp-https://inspire.cadastre.bg/arcgis/rest/services
+
+CH,Schweiz/Suisse/Svizzera,Schweiz/Suisse/Svizzera,Switzerland
+
+ad-swisstopo.admin.ch/en/geodata/official-geographic-directories/building-addresses.html
+
+bu-** https://geodienste.ch/services/av ** https://www.swisstopo.admin.ch/de/landeskarte-swiss-map-vector-10 **
+
+cp-https://geodienste.ch/services/av
+
+AT,Österreich,Österreich,Austria
+
+ad-https://www.bev.gv.at/Services/Downloads/Produktbezogene-Downloads/Unentgeltliche-Produkte/Adressregister.html
+
+bu-https://data.bev.gv.at/geonetwork/srv/ger/catalog.search#/metadata/c25dc7a7-bece-4962-8eae-c9177df1dc6b (Digital landscape model - buildings as of September 12, 2023)
+
+cp-https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/7f2ce3ef-bf81-4cfe-ac01-b01b58161e85 (Kataster Grafik Grundstücksverzeichnis GPKG Stichtag 01.04.2023)
+
+EE,Eesti,Eesti,Estonia
+
+ad-https://geoportaal.maaamet.ee/eng/Spatial-Data/Address-Data-p313.html
+
+bu-https://geoportaal.maaamet.ee/index.php?lang_id=2&page_id=618
+
+cp-https://geoportaal.maaamet.ee/eng/Spatial-Data/Cadastral-Data-p310.html
+
+EL,Elláda,Ελλάδα,Greece
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp-https://data.ktimatologio.gr/dataset/a7870ace-b5f0-47dc-b86c-3f487377899c
+
+ES,España,España,Spain
+
+ad-https://www.catastro.minhap.es/webinspire/index.html
+
+bu-https://www.catastro.minhap.es/webinspire/index.html
+
+cp-https://www.catastro.minhap.es/webinspire/index.html
+
+https://github.com/justinelliotmeyers/espana_inspire
+
+Navarra, País Vasco and Cataluña // País Vasco or Euskadi is composed by Bizcaia, Álava and Guipúzcoa 
+
+https://b5m.gipuzkoa.eus/web5000/es/conjuntos-datos/datos-de-catastro
+
+https://filescartografia.navarra.es/2_CARTOGRAFIA_TEMATICA/2_7_CATASTRO/
+
+https://web.araba.eus/es/hacienda/catastro
+
+FI,Suomi/Finland,Suomi/Finland,Finland
+
+ad-https://www.avoindata.fi/data/fi/dataset/postcodes
+
+bu-https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu/maastotietokanta
+
+cp-https://asiointi.maanmittauslaitos.fi/karttapaikka/tiedostopalvelu
+
+FR,France,France,France
+
+ad-https://adresse.data.gouv.fr/ / https://geoservices.ign.fr/ban-plus
+
+bu-https://geoservices.ign.fr/bdtopo - **overlaps / https://geoservices.ign.fr/parcellaire-express-pci **NO IDS** /  - *****IS THIS NEW??? https://rnb.beta.gouv.fr/carte
+
+cp- https://geoservices.ign.fr/parcellaire-express-pci
+
+HR,Hrvatska,Hrvatska,Croatia
+
+ad-https://geoportal.nipp.hr/geonetwork/srv/eng/catalog.search#/metadata/d3104048-688a-4305-9471-77288cc6e350
+
+bu-https://geoportal.nipp.hr/geonetwork/srv/eng/catalog.search#/metadata/5b453076-b5a0-4326-9ded-3150bb59e560
+
+cp-https://geoportal.nipp.hr/geonetwork/srv/eng/catalog.search#/metadata/c5561ed9-9a80-4a78-ab6c-0d8cc833a50a
+
+HU,Magyarország,Magyarország,Hungary
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+IE,Éire/Ireland,Éire/Ireland,Ireland
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+IS,Ísland,Ísland,Iceland
+
+ad-https://fasteignaskra.is/gogn/grunngogn-til-nidurhals/stadfangaskra/
+
+Bu- https://data-reykjavik.opendata.arcgis.com/search?tags=h%25C3%25BAs
+
+cp- https://fasteignaskra.is/gogn/grunngogn-til-nidurhals/landeignaskra/
+
+IT,Italia,Italia,Italy
+
+ad- NO DOWNLOAD - 
+
+bu- https://www.igmi.org/it/dbsn-database-di-sintesi-nazionale - Not full covergae or highest quality. Was told they have or are talking about using OSM data?
+
+cp- NO DOWNLOAD - 
+
+LV,Latvija,Latvija,Latvia
+
+ad-https://data.gov.lv/dati/lv/dataset/valsts-adresu-registra-informacijas-sistemas-atvertie-dati
+
+bu-https://data.gov.lv/dati/lv/dataset/kadastra-informacijas-sistemas-atverti-telpiskie-dati
+
+cp-https://data.gov.lv/dati/lv/dataset/kadastra-informacijas-sistemas-atverti-telpiskie-dati
+
+ME,Crna Gora,Црна Гора,Montenegro
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+MT,Malta,Malta,Malta
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+NO,Norge,Norge,Norway
+
+ad-https://kartkatalog.geonorge.no/metadata/inspire-addresses/8a3da298-dad8-4b8f-b8fc-668efffad0d7
+
+bu- NO DOWNLOAD
+
+cp-https://kartkatalog.geonorge.no/metadata/74340c24-1c8a-4454-b813-bfe498e80f16
+
+MK,Severna Makedonija,Северна Македонија,North Macedonia
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+LT,Lietuva,Lietuva,Lithuania
+
+ad-https://www.registrucentras.lt/p/1187
+
+bu-https://www.geoportal.lt/geoportal/en/web/en/open-data#GRPK
+
+cp-https://www.inspire-geoportal.lt/geoserver/web/?3
+
+LU,Luxembourg,Luxembourg,Luxembourg
+
+ad-https://data.public.lu/en/datasets/adresses-georeferencees-bd-adresses/
+
+bu-https://data.public.lu/en/datasets/adresses-georeferencees-bd-adresses/
+
+cp-https://data.public.lu/fr/datasets/plan-cadastral-numerise-pcn/
+
+NL,Nederland,Nederland,Netherlands
+
+ad-https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/a5f961e9-ebdd-41e2-b8e8-ab33ed340a83   INSPIRE geharmoniseerd
+
+bu-https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f   BAG
+
+cp-https://www.nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search#/metadata/e222648d-d19e-4a99-a67d-2af1c9aabd75  INSPIRE geharmoniseerd
+
+SI,Slovenija,Slovenija,Slovenia
+
+ad-https://ipi.eprostor.gov.si/jgp/data
+
+bu-https://ipi.eprostor.gov.si/jgp/data
+
+cp-https://ipi.eprostor.gov.si/jgp/data
+
+LI,Liechtenstein,Liechtenstein,Liechtenstein
+
+ad-https://service.geo.llv.li/download/
+
+bu-https://service.geo.llv.li/atom/service.xml
+
+cp-https://service.geo.llv.li/atom/50fb7bec-c4bd-4b71-a3f3-9b223ee998bb.xml
+
+SE,Sverige,Sverige,Sweden
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+PL,Polska,Polska,Poland
+
+ad-https://opendata.geoportal.gov.pl/prg/adresy/PRG-punkty_adresowe.zip
+
+bu-https://opendata.geoportal.gov.pl/bdot10k/Polska_GML.zip
+
+cp-NO DOWNLOADS - WFS - https://integracja.gugik.gov.pl/eziudp/index.php?teryt=&rodzaj=&nazwa=&zbior=&temat=1.6&usluga=pobierania&adres
+
+addresses - easy, copyright annoying
+
+buildings - easy, copyright is annoying
+
+SK,Slovensko,Slovensko,Slovakia
+
+ad- https://data.slovensko.sk/datasety/b27f57f1-7e76-45e0-8968-631f9176b2e9
+
+bu-https://www.geoportal.sk/en/inspire/download-data/
+
+cp-https://www.geoportal.sk/en/inspire/download-data/
+
+RS,Serbia,Srbija/Сpбија,Republic of Serbia
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+TR,Türkiye,Türkiye,Turkey
+
+ad- NO DOWNLOAD - 
+
+bu- NO DOWNLOAD - 
+
+cp- NO DOWNLOAD - 
+
+UK,United Kingdom,United Kingdom,United Kingdom
+
+ad-
+
+bu-
+
+cp-
+
+RO,România,România,Romania
+
+ad- NO DOWNLOAD - https://renns.ancpi.ro/renns-public/
+
+bu- https://geoportal.ancpi.ro/portal/home/ (need to download through tiles (https://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=6fcbd33e7ca64215985b478e94cbab64), but data isn't 100% complete across country - https://github.com/justinelliotmeyers/romania_topro50_index)
+
+cp- NO DOWNLOAD - https://geoportal.ancpi.ro/portal/apps/webappviewer/index.html?id=01a39376d558409a93b01a9a15b832e2
+
+PT,Portugal,Portugal,Portugal
+
+ad-http://inspire.ine.pt/AD/atom/downloadservice.xml (**RESIDENTIAL ONLY?)
+
+bu- WILL NOT OPEN THIS DATA
+
+cp- NO DOWNLOAD - 
