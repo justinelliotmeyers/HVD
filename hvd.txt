@@ -315,4 +315,4 @@ ad-http://inspire.ine.pt/AD/atom/downloadservice.xml (**RESIDENTIAL ONLY?)
 
 bu- WILL NOT OPEN THIS DATA
 
-cp- NO DOWNLOAD - 
+cp- https://dados.gov.pt/pt/datasets/representacao-grafica-georreferenciada/
